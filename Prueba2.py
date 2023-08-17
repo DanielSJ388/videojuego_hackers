@@ -123,7 +123,7 @@ while True:
     # Ajustar el tamaño del rectángulo de colisión del jugador 1
     jugador1.actualizar_rect_colision()
 
-    # Ajustar el tamaño del rectángulo de colisión del jugador 2
+    # Ajustar el tamaño del rectángulos  de colisión del jugador 2
     jugador2.actualizar_rect_colision()
 
     # Colisión entre los jugadores
